@@ -59,7 +59,6 @@ Questions related to the usage of Apache Commons Collections should be posted to
 
 Where can I get the latest release?
 -----------------------------------
-You can download source and binaries from our [download page](https://commons.apache.org/proper/commons-collections/download_collections.cgi).
 
 Alternatively you can pull it from the central Maven repositories:
 
